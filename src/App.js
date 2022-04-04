@@ -14,7 +14,7 @@ function App() {
         <Route path ="/" element = {<Home></Home>}></Route>
         <Route path ="/home" element = {<Home></Home>}></Route>
         <Route path ="review" element = {<Review></Review>}></Route>
-        
+        <Route path ="*" element = {<Notfound></Notfound>}></Route>
       </Routes>
       
     </div>
