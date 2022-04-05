@@ -1,6 +1,6 @@
 # React-headphone-project
 
-My project live site link (https://github.com/facebook/create-react-app).
+My project live site link ("https://sparkly-empanada-567bc8.netlify.app/").
 
 ## Some Bullet Points About My Project
 
