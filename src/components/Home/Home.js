@@ -1,10 +1,17 @@
 import React from 'react';
+import { Navigate, useNavigate } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
 import Homecart from '../Homecart/Homecart';
 import "./Home.css"
 
 const Home = () => {
     const [reviews,setReviews] = useReview();
+    const navigate = useNavigate();
+    const showReviews = () => {
+        const path =`/review`;
+        navigate(path);
+
+    }
 
     const addSlice = reviews.slice(0,3)
     return (
@@ -34,7 +41,7 @@ const Home = () => {
                 ></Homecart>)
             }
          </div>
-         <button className='btn-review'>See All Reviews</button>
+         <button onClick ={showReviews}className='btn-review'>See All Reviews</button>
          
 
 
