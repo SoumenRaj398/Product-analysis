@@ -44,7 +44,7 @@ const Dashboard = () => {
     ]
     return ( 
         <div className='rechart'>
-             <div>
+             <div className='line-chart'>
                  <h1>Here is a LineChart of Our Product</h1>
               
               <LineChart width={400} height={500} data ={data}>

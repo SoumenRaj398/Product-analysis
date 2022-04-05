@@ -1,0 +1,11 @@
+.cart{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:20px;
+}
+.product-review{
+    background-color: lightskyblue;
+}
+.customer{
+    background-color: lightgrey;
+}
