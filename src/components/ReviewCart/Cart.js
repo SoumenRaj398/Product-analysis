@@ -9,6 +9,7 @@ const Cart = ({review}) => {
          
             <h2 className='customer'>{review.name}</h2>
             <h3 className='review'>{review.comment}</h3>
+            <h4>Rating:{review.rating}</h4>
             
         </div>
     );

@@ -8,6 +8,7 @@ const Homecart = ({review}) => {
             <h3 className='comment'>{review.comment}
             
             </h3>
+            <h4 className='rating'>Rating:{review.rating}</h4>
           
             
         </div>

@@ -1,15 +1,15 @@
 [
     {"name": "Michael Clark",
-        "comment":"The Beats Solo Pro Wireless are very well-built on-ear headphones with a sleek, premium-looking design. They have a fairly neutral, although slightly excited sound profile"},
+        "comment":"The Beats Solo Pro Wireless are very well-built on-ear headphones with a sleek, premium-looking design. They have a fairly neutral, although slightly excited sound profile","rating":"5 star"},
 
 
-    {"name": "Ricky Ponting","comment":"The Astro A20 Wireless are decent wireless gaming headphones. They're easy-to-use and have good battery life. They're also fairly comfortable,but can be a bit tight on the head."},
+    {"name": "Ricky Ponting","comment":"The Astro A20 Wireless are decent wireless gaming headphones. They're easy-to-use and have good battery life. They're also fairly comfortable,but can be a bit tight on the head.","rating":"5 star"},
 
-    {"name": "Shane Watson","comment":"The JBL Vibe 100TWS True Wireless are budget-friendly in-ears. They're quite simple in design but deliver a versatile sound profile that adds just a touch of extra bass to mixes."},
+    {"name": "Shane Watson","comment":"The JBL Vibe 100TWS True Wireless are budget-friendly in-ears. They're quite simple in design but deliver a versatile sound profile that adds just a touch of extra bass to mixes.","rating":"4.5 star"},
 
-    {"name": "Andrew Rusell","comment":"The Razer Kaira X for PlayStation are wired gaming headphones that come in console-specific color variants. Although we tested the PlayStation variant, all variants work with any console with an AUX port"},
+    {"name": "Andrew Rusell","comment":"The Razer Kaira X for PlayStation are wired gaming headphones that come in console-specific color variants. Although we tested the PlayStation variant, all variants work with any console with an AUX port","rating":"4.5 star"},
 
-    {"name": "Tim Southee","comment":"The HyperX Cloud Alpha S are the next generation of the HyperX Cloud Alpha. These wired gaming headphones maintain a similarly great build quality and are just as comfortable as their predecessor"},
+    {"name": "Tim Southee","comment":"The HyperX Cloud Alpha S are the next generation of the HyperX Cloud Alpha. These wired gaming headphones maintain a similarly great build quality and are just as comfortable as their predecessor","rating":"4 star"},
 
-{"name":"David Warner","comment":"The JBL Tune 760NC Wireless are noise cancelling Bluetooth headphones. They have an ANC feature that can block out mid and treble-range background noise, though it doesn't perform much better than the passive noise isolation in these ranges. The ANC can help block out more bass-heavy background noise"}
+{"name":"David Warner","comment":"The JBL Tune 760NC Wireless are noise cancelling Bluetooth headphones. They have an ANC feature that can block out mid and treble-range background noise, though it doesn't perform much better than the passive noise isolation in these ranges. The ANC can help block out more bass-heavy background noise","rating":"5 star"}
 ]
